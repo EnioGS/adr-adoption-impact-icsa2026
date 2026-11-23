@@ -58,6 +58,10 @@ E. G. de Santana Jr, G. B. Figueiredo, M. L. M. Peixoto, F. A. Durão, C. V. S. 
 }
 ```
 
+## License
+
+The datasets and the documentation are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The scripts in `scripts/` are licensed under the [MIT License](LICENSE).
+
 ## Authors
 
 Enio Garcia de Santana Jr, Gustavo Bittencourt Figueiredo, Maycon Leone Maciel Peixoto, Frederico Araújo Durão, Cássio Vinícius Serafim Prazeres, Ivan do Carmo Machado, and Eduardo Santana de Almeida, Institute of Computing, Federal University of Bahia (UFBA), Brazil. Paulo Anselmo da Mota Silveira Neto, Federal Rural University of Pernambuco (UFRPE), Brazil.
