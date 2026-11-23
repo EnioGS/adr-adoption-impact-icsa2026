@@ -1,0 +1,8 @@
+# assembled metric files, generated locally (see INSTALL.md)
+datasets/metrics/*_assembled.csv
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+**/.env
