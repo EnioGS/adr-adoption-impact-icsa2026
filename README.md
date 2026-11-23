@@ -66,6 +66,6 @@ The datasets and the documentation are licensed under [CC BY 4.0](https://creati
 
 Enio Garcia de Santana Jr, Gustavo Bittencourt Figueiredo, Maycon Leone Maciel Peixoto, Frederico Araújo Durão, Cássio Vinícius Serafim Prazeres, Ivan do Carmo Machado, and Eduardo Santana de Almeida, Institute of Computing, Federal University of Bahia (UFBA), Brazil. Paulo Anselmo da Mota Silveira Neto, Federal Rural University of Pernambuco (UFRPE), Brazil.
 
-Questions about the data, or interest in building on it, are welcome: open an issue or reach the first author through the [GitHub profile](https://github.com/EnioGS).
+Questions about the data, or interest in building on it, are welcome: open an issue or reach the first author through [GitHub](https://github.com/EnioGS), [ORCID](https://orcid.org/0009-0000-7625-8583), or [LinkedIn](https://www.linkedin.com/in/eniosantana/).
 
 --gse
